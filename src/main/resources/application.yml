@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/phoneshop_eng
+    username: phoneshop_user
+    password: phoneshop_user_123
+  jpa:
+    hibernate:
+      ddl-auto: create
