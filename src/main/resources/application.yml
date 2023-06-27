@@ -5,4 +5,4 @@ spring:
     password: phoneshop_user_123
   jpa:
     hibernate:
-      ddl-auto: create
+      ddl-auto: update
